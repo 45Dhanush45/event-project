@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>greenden</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Roboto+Mono&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href=" https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+   <link rel="stylesheet" href="style2.css">
+</head>
+    <body>
+<header>
+    <div class="logo">
+        greemy
+
+    </div>
+    <nav>
+        <ul class="nav-link">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Products</a></li>
+        </ul>
+    </nav>
+
+</header>
+<div class="banner">
+    
+        <p class="para">we offer you a wide range of artificial and natural flowers</p>
+    
+    <h1>Plants for Your interior</h1>
+<div class="boxer">
+ <img src="https://source.unsplash.com/250x250/?plants?">
+</div>
+   
+    <button>
+        Shop Now
+    </button>
+    <button class="btn2">
+        Watch Video
+    </button>
+    
+   <p class="para1">160 + plants species & 100 + clints</p>
+
+</div>
+        <h2>About Us</h2>
+        
+
+            <p class="para2">This site for those who admire the beauty and harmony of nature</p>
+        
+
+       <div class="container">
+
+    <div class="box1">
+
+       <p class="brand-1"> <i class="fa-brands fa-pagelines"></i> </p>
+        <h5 class="test">Large assortment</h5>
+        
+            <p class="text">We offer our customer more then 15,000 items of natural and artificial flowers, trees and many accessories for floristry</p>
+    </div>  
+
+        <div class="box2">
+
+        <p class="brand"> <i class="fa-solid fa-suitcase-rolling"></i></p>
+        <h5 class="test">Free and fast shipping</h5>
+        
+            <p class="text">We will ship our goods after reciept of found to current account choose the most convenient from the offered delivery option</p>
+    </div>
+
+    
+    <div class="box3">
+
+        <p class="brand"> <i class="fa-solid fa-phone-volume"></i> </p>
+        <h5 class="test">24/7 Support</h5>
+        
+            <p class="text">We work seven days a week and a lunch break. We will be glad to welcome you as our Buyer and thank you for your trust in us!</p>
+    </div>
+    
+       </div>
+
+<div class="product">
+    <h3>Products</h3>
+</div>
+<div  class="plant">
+<div class="plant-sub">
+    <div class="plant-img">
+        <img class="image1" src="https://source.unsplash.com/190x400/?plant?1">
+        <p class="figger">Natural Plants</p>
+    </div>
+
+    <div class="plant-img">
+        <img class="image2" src="https://source.unsplash.com/190x400/?plant?2">
+        <p class="figgers">Natural plants</p>
+    </div>
+
+    <div class="plant-img">
+        <img class="image3" src="https://source.unsplash.com/190x400/?plant?3">
+        <p class="figger">Natural Plants</p>
+    </div>
+    </div>
+    <p class="last">Plastic and textile products are a practical solution for everyone who loves flowering plants but does not have the same or desire to care for them</p>
+    
+</div>
+ 
+    <div class="box-main">
+        <b>Best Seller</b>  
+<div class="box-sub">
+
+    <div class="content1"> <img src="https://source.unsplash.com/230x270/?plant?5">
+        <p class="insert">Artificial plants
+            <p class="insert1">$20</p>
+        </p>
+        
+        </div>
+
+        <div class="content1"> <img src="https://source.unsplash.com/230x270/?plant?6">
+            <p class="insert">Natural plants
+                <p class="insert1">$130</p>
+            </p>
+            
+            </div>
+
+            <div class="content1"> <img src="https://source.unsplash.com/230x270/?plant?7">
+                <p class="insert">Blossom plants
+                    <p class="insert1">$40</p>
+                </p>
+                
+                </div>
+
+                <div class="content1"> <img src="https://source.unsplash.com/230x270/?plant?8">
+                    <p class="insert">Artificial plants
+                        <p class="insert1">$200</p>
+                    </p>
+                    
+                    </div>
+    
+  </div>
+</div> 
+
+  <div class="greeny">
+       <h1 class="green">Greeny</h1>
+       <p class="commend">Maintain the atmosphere by producing oxygen and absorbing carbon dioxide during photosynthesis.</p>
+       <p class="fa-brands">  
+       <i class="fa-brands fa-facebook"></i>
+       <i class="fa-brands fa-square-x-twitter"></i>
+       <i class="fa-brands fa-square-instagram"></i>
+    </p>
+      <p class="commend1"> @ 2023 Greenday.com</p>
+  </div>
+<div class="footer">
+  <h1 class="sub">Join our News Letter
+
+  </h1>
+  <p class="sub-para">Signup for our email newspaper to get exclusive discounts, updates, and more</p>
+    
+  <button class="length"></button>
+   <br>
+
+   <button class="length-btn">Subscribe</button>
+
+   
+</div>
+
+</body>
+</html>
